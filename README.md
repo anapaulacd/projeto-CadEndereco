@@ -6,9 +6,17 @@ Esse é um projeto para adicionar endereço automaticamente, é um projeto simpl
 ## Funcionalidades
 Com esse projeto basta só adicionar o Cep e as outros campos de controles interativo preenche automaticamente, verifica se o cep é valido, limpa o formulário, //terminar
 ## tecnologias utilizadas
+* VsCode
+* HTML
+* JS
+* Google
+* Git
+* Github
+* Captura de tela 
 
+## Fontes consultadas 
 
-## tecnologias utilizadas
+## Aprendizados 
 
 
 ## autores 
