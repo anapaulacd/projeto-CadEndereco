@@ -14,11 +14,13 @@ Com esse projeto basta só adicionar o Cep e as outros campos de controles inter
 * Github
 * Captura de tela 
 
-## Fontes consultadas 
-
+## Fontes consultadas
+[Via Cep]()
+[Alura]()
+[Bootstrap]()
 
 ## 📄 Aprendizados 
-
+Esse site foi feito em javascript, os ensinamentos foram para utilizar arrow function, e expressão regular, esse projeto vai consultar sem que o usuário veja o site dos correios foi usado o API, nesse projeto foi reforçado o que já tinha aprendido o HTML e algumas partes do javascript.
 
 ## autores 
 [Ana Paula](https://github.com/anapaulacd)
