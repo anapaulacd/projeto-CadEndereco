@@ -23,3 +23,6 @@ Com esse projeto basta só adicionar o Cep e as outros campos de controles inter
 ## autores 
 [Ana Paula](https://github.com/anapaulacd)
 orientador [Leonardo](https://github.com/LeonardoRochaMarista)
+
+## Colaboradores 
+[Larissa](https://github.com/larissassk)
